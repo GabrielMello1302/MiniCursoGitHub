@@ -26,7 +26,7 @@ Tópicos a serem abordados:
 
 2º: O que é o GitHub?
 
-      Ele é o repositório ( Caixinha) onde armazenamos todos esses códigos, projetos, etc. Ele é o mais conhecido e dentro dele é possivel fazer a criação de varios repositórios.
+      Ele é o repositório (Caixinha) onde armazenamos todos esses códigos, projetos, etc. Ele é o mais conhecido e dentro dele é possivel fazer a criação de varios repositórios.
       Onde o repositório armazena todo o cógido, e pra cada alteração feita, é salvo com um comentário dentro desse repositório. 
 -                                              ( commit = salvar aqui ).
       Existem empresas aonde se padronizam os salvamentos ( Commit ), por exemplo de sintaxe: 
@@ -35,4 +35,5 @@ Feature = Recurso
 Bug = Erro
       Exemplo aplicado agora:       git commit -m "Feature/Tela-login Inicio "
 
-Por resumo de tudo o Git é o versionador de códigos, onde atraves de comandos possamos salvar versões dos nossos códigos e o GitHub é o repositório onde salvamos estas versões que o Git criou.
+Por resumo de tudo o Git é o versionador de códigos, onde atraves de comandos possamos salvar versões dos nossos códigos e 
+o GitHub é o repositório onde salvamos estas versões que o Git criou.
