@@ -1,0 +1,20 @@
+Resumo da aula 01!
+
+Tópicos a serem abordados:
+
+1º: Diferença do Git e GitHub
+2º: Qual a importancia do Git nos projetos, nas empresas, etc.
+
+O que é o Git?
+  O Git é um versionador de códigos, ou seja, ele cria versões do código.
+  "Por exemplo uma empresa aonde tenha três programadores, todos trabalhando no mesmo sistema e
+  cada um em uma determinada tarefa. o P1 trabalhando na Tela-Login, P2 na Tela-Informaçoes e P3 na Exclusão-de-Dados."
+
+O Git torna-se possivel que cada um trabalhe em uma versão sem atrapalhar o outro, com a possibilidade de ser versões 
+diferentes ou a mesma. Para que isso funcione cada programador teria que ter em sua maquina uma versão do código.
+
+Para que não seja necessário ficar copiando e colando o código um do outro, o Git chega para ajudar, com o auxilio
+de alguns comandos é possivel armazenar tudo dentro de uma "Nuvem".
+
+      "Por exemplo o P1 vai no repositório do código, baixa ele e cria uma ramificação na sua própria maquina, o P2 e P3 
+fazem a mesma coisa.
