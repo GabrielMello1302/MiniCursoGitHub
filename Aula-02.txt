@@ -1,0 +1,14 @@
+Resumo da aula 02!
+
+Tópicos a serem abordados:
+
+1º: Criar um repositório dentro do GitHub.
+2º: Linkar um repositório da maquina local com um repositório do GitHub.
+
+Na criação de um repositório, atribuimos a ele: 
+    *Nome, Descrição, torna-lo Publico ou Privado.
+    *E podemos inicia-lo com um arquivo README.md que preenchido pode vir com 
+    uma breve Descrição do código ou intrudução do código.
+    *Temos também a posibilidade de adicionar um .gitignore: que é um arquivo que 
+    nos auxilia bastante dentro do projeto, onde dentro dele podemos colocar as pastas
+    e os arquivos que não queremos que o Git versione.
